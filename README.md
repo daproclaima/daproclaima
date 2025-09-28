@@ -1,4 +1,4 @@
-# Hi there, I'm Sébastien 👋
+# Hi there, I'm Sébastien NOBOUR 👋
 
 ## Senior Full-Stack Engineer | Technical Co-Founder | Node.js · TypeScript · React.js Expert
 
@@ -67,6 +67,7 @@ I'm a passionate full-stack engineer with 6+ years of experience building scalab
 - **Tech Philosophy**: Agile Agnostic (I experienced that Scrum and SAFe tend to open doors to practice restricting multiple principles from the Agile Manifesto, if not cancelling them at all), Lean Thinking, DevOps, Continuous Delivery advocate
 - **Investments**: Private equity/startup investor (Y Combinator, Rebel Fund)
 - **Community**: Public speaker (French & English)
+- **Supporting**: Patron of the [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT) YouTube channel
 - **Learning**: Currently learning Dutch 🇳🇱
 - **Training**: Continuous Delivery and Deployment Pipeline Architecture (Dave Farley)
 
