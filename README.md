@@ -85,6 +85,9 @@ I'm a passionate full-stack engineer with 6+ years of experience building scalab
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastien@devedanos.com)
 
 💼 Open for: Freelance opportunities, Technical consulting, Startup collaborations
+
+See [CV](https://www.devedanos.com/documents/EN_RESUME_SNOBOUR_DEVEDANOS.pdf)
+
 ---
 
 *"I drive innovation by adopting advanced technologies through exploration and prototyping, following best practices like Continuous Delivery, Domain Driven Design, and the Agile Manifesto."*
