@@ -12,7 +12,7 @@ I'm a passionate full-stack engineer with 6+ years of experience building scalab
 ### 💼 Recent Client Success Stories
 
 - **OMNES Education**: Developed an AI-powered resume analysis feature using ChatGPT API, reducing manual data entry time by 80%
-- **ANCT**: Led development of a secure digital platform for French local authorities, supporting 30+ beta testers
+- **ANCT**: contributed to the development of a secure digital platform for French local authorities, supporting 30+ beta testers
 - **Groupe Rapido**: Delivered a marketplace generating €50K annual revenue with 3M+ unique visits
 
 ### 🛠️ Tech Stack & Expertise
