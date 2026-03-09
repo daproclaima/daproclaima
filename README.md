@@ -46,7 +46,7 @@ I'm a passionate full-stack engineer with 6+ years of experience building scalab
 
 #### Testing & DevOps
 - **Testing**: Jest, Vitest, Playwright, React Testing Library, Cypress
-- **CI/CD**: GitHub Actions, GitLab CI, Trunk-Based Development
+- **CI/CD**: GitHub Actions, GitLab CI, Trunk-Based Development ([see that pipeline](https://gist.github.com/daproclaima/22e400c17639f74ce8c3cf44c16d4753))
 - **Monitoring**: Observability, Winston logging, Performance optimization (Core Web Vitals)
 
 ### 🎯 Core Competencies
