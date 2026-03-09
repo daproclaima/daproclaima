@@ -1,7 +1,7 @@
 # Hi there, I'm Sébastien NOBOUR 👋
 
 ## Senior Full-Stack Engineer | Technical Co-Founder | Node.js · TypeScript · React.js Expert
-
+Founder and CTO of [Devedanos](https://www/devedanos.com), a custom software development agency.
 I'm a passionate full-stack engineer with 6+ years of experience building scalable, secure applications. Currently working as a freelance consultant and Technical Co-Founder at [Tortuga Outdoor](https://tortuga-outdoor.fr), where we're building a community platform for mountain sports enthusiasts that reached 600+ users in just 3 months.
 
 ### 🚀 What I'm Currently Working On
