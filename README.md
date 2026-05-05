@@ -29,7 +29,7 @@ Selected from 7+ years across employee, freelance, and consulting contexts:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 #### Frontend
@@ -102,9 +102,9 @@ Selected from 7+ years across employee, freelance, and consulting contexts:
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daproclaima&show_icons=true&theme=dark)](https://github.com/daproclaima)
+[![GitHub Stats](https://streak-stats.demolab.com?user=daproclaima&theme=dark)](https://github.com/daproclaima)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daproclaima&layout=compact&theme=dark)](https://github.com/daproclaima)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daproclaima&theme=dark)](https://github.com/daproclaima)
 
 ---
 
